@@ -16,7 +16,9 @@ Voor  | Tegen
 Kleur: zachte wave
 Röntgen: aggresieve wave
 
-Hoe dichter iets is, hoe slechter straling doordringt
+Hoe dichter iets is, hoe slechter straling doordringt (absorptie)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjc3Njg2MzldfQ==
+eyJoaXN0b3J5IjpbMzAzMDczOTg1LC0xMDY3NzY4NjM5XX0=
 -->
