@@ -18,7 +18,12 @@ Röntgen: aggresieve wave
 
 Hoe dichter iets is, hoe slechter straling doordringt (absorptie)
 
-
+# H8 P2
+| |
+|---|-
+| |
+| |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzAzMDczOTg1LC0xMDY3NzY4NjM5XX0=
+eyJoaXN0b3J5IjpbLTMwNTcxMjU4MCwzMDMwNzM5ODUsLTEwNj
+c3Njg2MzldfQ==
 -->
