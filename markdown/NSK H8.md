@@ -23,8 +23,11 @@ Ioniserende straling (vanaf UV-B)
 Radioactieve isotopen
 Stoffen die uit zichzelf stralen
 
+Hoeveelheid kernen dat uiteenvalt
+Per seconde = activitieit (BQ)
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NTY0MTYzMywtMTY2NDI5ODUxMywzMD
-MwNzM5ODUsLTEwNjc3Njg2MzldfQ==
+eyJoaXN0b3J5IjpbNTExNDE1MjIsLTE2NjQyOTg1MTMsMzAzMD
+czOTg1LC0xMDY3NzY4NjM5XX0=
 -->
