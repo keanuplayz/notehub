@@ -21,9 +21,10 @@ Hoe dichter iets is, hoe slechter straling doordringt (absorptie)
 # H8 P2 Radioactiviteit
 Ioniserende straling (vanaf UV-B)
 Radioactieve isotopen
-Stoffen d
+Stoffen die uit zichzelf stralen
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzAzOTUzOTUsLTE2NjQyOTg1MTMsMz
-AzMDczOTg1LC0xMDY3NzY4NjM5XX0=
+eyJoaXN0b3J5IjpbLTQ4NTY0MTYzMywtMTY2NDI5ODUxMywzMD
+MwNzM5ODUsLTEwNjc3Njg2MzldfQ==
 -->
