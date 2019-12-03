@@ -26,11 +26,10 @@ Stoffen die uit zichzelf stralen
 Hoeveelheid kernen dat uiteenvalt
 Per seconde = activitieit (BQ)
 
-# H8 P3 Strali
-
+# H8 P3 Straling gebruiken
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg2Mjc0NTE5LC0xMjI4NDQ2MDA4LDUxMT
-QxNTIyLC0xNjY0Mjk4NTEzLDMwMzA3Mzk4NSwtMTA2Nzc2ODYz
-OV19
+eyJoaXN0b3J5IjpbMTQ0Nzk2NjMwMiwtMTIyODQ0NjAwOCw1MT
+E0MTUyMiwtMTY2NDI5ODUxMywzMDMwNzM5ODUsLTEwNjc3Njg2
+MzldfQ==
 -->
