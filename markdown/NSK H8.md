@@ -32,8 +32,9 @@ Per seconde = activitieit (BQ)
 γ (gamma) straling
 |
 |------> bestraling
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MzIxNzE2NSwxNjI2NDg5NTIsLTEyMj
-g0NDYwMDgsNTExNDE1MjIsLTE2NjQyOTg1MTMsMzAzMDczOTg1
-LC0xMDY3NzY4NjM5XX0=
+eyJoaXN0b3J5IjpbLTE3NDUyOTk5NzMsMTYyNjQ4OTUyLC0xMj
+I4NDQ2MDA4LDUxMTQxNTIyLC0xNjY0Mjk4NTEzLDMwMzA3Mzk4
+NSwtMTA2Nzc2ODYzOV19
 -->
