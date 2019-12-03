@@ -30,11 +30,11 @@ Per seconde = activitieit (BQ)
 α (alfa) straling
 β (beta) staling
 γ (gamma) straling
-|
+|------> tracer
 |------> bestraling
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDUyOTk5NzMsMTYyNjQ4OTUyLC0xMj
-I4NDQ2MDA4LDUxMTQxNTIyLC0xNjY0Mjk4NTEzLDMwMzA3Mzk4
-NSwtMTA2Nzc2ODYzOV19
+eyJoaXN0b3J5IjpbLTQwNDQ4MTk3NCwtMTc0NTI5OTk3MywxNj
+I2NDg5NTIsLTEyMjg0NDYwMDgsNTExNDE1MjIsLTE2NjQyOTg1
+MTMsMzAzMDczOTg1LC0xMDY3NzY4NjM5XX0=
 -->
