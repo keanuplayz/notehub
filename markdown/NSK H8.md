@@ -27,9 +27,11 @@ Hoeveelheid kernen dat uiteenvalt
 Per seconde = activitieit (BQ)
 
 # H8 P3 Straling gebruiken
-
+α (alfa) straling
+β (beta) staling
+γ (gamma) straling
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0Nzk2NjMwMiwtMTIyODQ0NjAwOCw1MT
-E0MTUyMiwtMTY2NDI5ODUxMywzMDMwNzM5ODUsLTEwNjc3Njg2
-MzldfQ==
+eyJoaXN0b3J5IjpbMTYyNjQ4OTUyLC0xMjI4NDQ2MDA4LDUxMT
+QxNTIyLC0xNjY0Mjk4NTEzLDMwMzA3Mzk4NSwtMTA2Nzc2ODYz
+OV19
 -->
