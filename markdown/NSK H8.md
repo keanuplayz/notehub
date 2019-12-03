@@ -26,8 +26,9 @@ Stoffen die uit zichzelf stralen
 Hoeveelheid kernen dat uiteenvalt
 Per seconde = activitieit (BQ)
 
+# H
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTExNDE1MjIsLTE2NjQyOTg1MTMsMzAzMD
-czOTg1LC0xMDY3NzY4NjM5XX0=
+eyJoaXN0b3J5IjpbMTY2ODE5MDQwNSw1MTE0MTUyMiwtMTY2ND
+I5ODUxMywzMDMwNzM5ODUsLTEwNjc3Njg2MzldfQ==
 -->
