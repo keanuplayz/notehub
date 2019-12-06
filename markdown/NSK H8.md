@@ -28,15 +28,15 @@ Per seconde = activitieit (BQ)
 
 # H8 P3 Straling gebruiken
 α (alfa) straling (hoog ioniserend, laag doordringend)
-β (beta) staling
-γ (gamma) straling
+β (beta) staling (gemiddeld, gemiddeld)
+γ (gamma) straling (laag, extreem hoog)
 |------> tracer
 |------> bestraling
 
 # H8 P4
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTcxNTQzODksLTQwNDQ4MTk3NCwtMT
+eyJoaXN0b3J5IjpbLTExNzk0NTcwMDksLTQwNDQ4MTk3NCwtMT
 c0NTI5OTk3MywxNjI2NDg5NTIsLTEyMjg0NDYwMDgsNTExNDE1
 MjIsLTE2NjQyOTg1MTMsMzAzMDczOTg1LC0xMDY3NzY4NjM5XX
 0=
