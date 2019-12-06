@@ -33,11 +33,12 @@ Per seconde = activitieit (BQ)
 |------> tracer
 |------> bestraling
 
-# H8 P4
-
+# H8 P4 Straling beschermen
+1. Dosismeter
+2. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzk0NTcwMDksLTQwNDQ4MTk3NCwtMT
-c0NTI5OTk3MywxNjI2NDg5NTIsLTEyMjg0NDYwMDgsNTExNDE1
-MjIsLTE2NjQyOTg1MTMsMzAzMDczOTg1LC0xMDY3NzY4NjM5XX
-0=
+eyJoaXN0b3J5IjpbLTg4NTc3NDk2NywtMTE3OTQ1NzAwOSwtND
+A0NDgxOTc0LC0xNzQ1Mjk5OTczLDE2MjY0ODk1MiwtMTIyODQ0
+NjAwOCw1MTE0MTUyMiwtMTY2NDI5ODUxMywzMDMwNzM5ODUsLT
+EwNjc3Njg2MzldfQ==
 -->
