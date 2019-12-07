@@ -28,7 +28,8 @@ Röntgen: Botten absorberen straling bijna helemaal, spieren en vetweefsel laten
 Stralingsenergie is energie die vrijkomt bij straling. (warmte)
 Ioniserende straling:
 - UV straling in zonlicht maakt kleurstofmoleculen kapot. (kleuren verbleken, zwak ioniserend)
-- Röntgen kan je makkelijker ziek maken. (sterk ioniserend)
+- Radioactief (sterk ioniserend)
+- Röntgen kan je makkelijker ziek maken. (sterker ioniserend)
 
 Kleur: zachte wave
 Röntgen: aggresieve wave
@@ -36,6 +37,8 @@ Röntgen: aggresieve wave
 Hoe dichter iets is, hoe slechter straling doordringt (absorptie)
 
 # H8 P2 Radioactiviteit
+Radioactief = zend zelf (ioniserende)straling uit
+Natuurlijk radioactief = radioactieve stoffen van natuurlijke oorsprong (urati
 Ioniserende straling (vanaf UV-B)
 Radioactieve isotopen
 Stoffen die uit zichzelf stralen
@@ -56,9 +59,9 @@ Per seconde = activitieit (BQ)
 3. Tijd
 4. Afstand
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzNzk5MzUyMiwtMTE2NjU1NzMwMSwxNT
-M4MDk0NjMsLTg4NTc3NDk2NywtMTE3OTQ1NzAwOSwtNDA0NDgx
-OTc0LC0xNzQ1Mjk5OTczLDE2MjY0ODk1MiwtMTIyODQ0NjAwOC
-w1MTE0MTUyMiwtMTY2NDI5ODUxMywzMDMwNzM5ODUsLTEwNjc3
-Njg2MzldfQ==
+eyJoaXN0b3J5IjpbMTg4Nzg5ODY4LC0xMTY2NTU3MzAxLDE1Mz
+gwOTQ2MywtODg1Nzc0OTY3LC0xMTc5NDU3MDA5LC00MDQ0ODE5
+NzQsLTE3NDUyOTk5NzMsMTYyNjQ4OTUyLC0xMjI4NDQ2MDA4LD
+UxMTQxNTIyLC0xNjY0Mjk4NTEzLDMwMzA3Mzk4NSwtMTA2Nzc2
+ODYzOV19
 -->
