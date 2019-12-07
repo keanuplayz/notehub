@@ -43,6 +43,7 @@ Scheidingsmethode:
 - Indampen
 - Filtreren
 - Extraheren
+Zuiver
 
 # H7 par4 Atomen en moleculen.
 - Protonen
@@ -55,6 +56,7 @@ Scheidingsmethode:
 | Lading  | 1  | 0  | -1  |
 | Massa  |  1 | 1  | 0  |
 
+()[https://prnt.sc/q7i244]
 Koolstof: 
 
 ## Practicum Scheiden
@@ -70,6 +72,6 @@ Koolstof:
 	* De norit haalt de kleurstof uit de vloeistof.
 	* Er blijft helder water over.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTcyMTg0MzYsMjAyMTM2ODc4MCwtMT
-IzNzY4ODAyNV19
+eyJoaXN0b3J5IjpbMjMzMjUzODQ3LC0xMTk3MjE4NDM2LDIwMj
+EzNjg3ODAsLTEyMzc2ODgwMjVdfQ==
 -->
