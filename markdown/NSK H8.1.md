@@ -66,12 +66,12 @@ Dracht = geeft aan hoe ver de straling in een stof kan doordringen
 Bescherming tegen straling:
 1. Dosismeter
 2. Inpakken
-3. Tijd
-4. Afstand
-5. Afschermingsmateriaal
+3. Tijd (kort houden)
+4. Afstand (groot houden)
+5. Afschermingsmateriaal (lood, dikke laag)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NTc3OTAwMCwxMzI1MjgzMTQzLC0xNz
-QwMjQ1MDk1LC03OTU4Njg3NDMsMTYwMzA0ODg3OF19
+eyJoaXN0b3J5IjpbODY5NzQ2NTcxLDEzMjUyODMxNDMsLTE3ND
+AyNDUwOTUsLTc5NTg2ODc0MywxNjAzMDQ4ODc4XX0=
 -->
