@@ -38,7 +38,10 @@ Hoe dichter iets is, hoe slechter straling doordringt (absorptie)
 
 # H8 P2 Radioactiviteit
 Radioactief = zend zelf (ioniserende)straling uit
-Natuurlijk radioactief = radioactieve stoffen van natuurlijke oorsprong 
+Natuurlijk radioactief = Radioactieve stoffen van natuurlijke oorsprong (uraniumerts)
+Kunstmatig radioactief = Door mensen gemaakt. (1896)
+
+Geigerteller = Sensor die radioactiviteit detecteerd
 Ioniserende straling (vanaf UV-B)
 Radioactieve isotopen
 Stoffen die uit zichzelf stralen
@@ -59,5 +62,5 @@ Per seconde = activitieit (BQ)
 3. Tijd
 4. Afstand
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU0MDU5MDAzXX0=
+eyJoaXN0b3J5IjpbLTE2OTQ3ODQ1MDFdfQ==
 -->
