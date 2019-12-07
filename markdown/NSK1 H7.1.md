@@ -59,6 +59,8 @@ Nog kleinere deeltjes dan atoom:
 - Neutronen
 - Elektronen
 
+Atoomkern is opgebouwd uit twee kleine deeltjes, protonen en neutronen.
+Daar omheen bewegen elektronen.
 
 |   | Protonen  | Neutronen  | Elektronen  |
 |---|---|---|---|
@@ -80,6 +82,6 @@ Nog kleinere deeltjes dan atoom:
 	* De norit haalt de kleurstof uit de vloeistof.
 	* Er blijft helder water over.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTg0ODk3MzMsLTExOTcyMTg0MzYsMj
-AyMTM2ODc4MCwtMTIzNzY4ODAyNV19
+eyJoaXN0b3J5IjpbMTg3Mjk4ODA1MCwtMTE5NzIxODQzNiwyMD
+IxMzY4NzgwLC0xMjM3Njg4MDI1XX0=
 -->
