@@ -15,7 +15,11 @@ Voor  | Tegen
 
 ## Soorten straling:
 - Microgolven magnetron
-- Infrarood (warmto
+- Infrarood (warmte radiator)
+- Zichtbaar licht vanuit TV scherm
+- UV straling zonnebank
+- Röntgenstraling
+
 Kleur: zachte wave
 Röntgen: aggresieve wave
 
@@ -42,5 +46,5 @@ Per seconde = activitieit (BQ)
 3. Tijd
 4. Afstand
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0ODExOTYwM119
+eyJoaXN0b3J5IjpbLTE0MzQxNDMzMzNdfQ==
 -->
