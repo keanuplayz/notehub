@@ -59,6 +59,7 @@ Stoffen die uit zichzelf stralen
 γ (gamma) straling (laag, extreem hoog)
 |------> tracer
 |------> bestraling
+Dracht = geeft aan hoe ver de straling in een stof kan doordringen
 
 # H8 P4 Straling beschermen
 1. Dosismeter
@@ -66,9 +67,10 @@ Stoffen die uit zichzelf stralen
 3. Tijd
 4. Afstand
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5NTg2ODc0MywxNjAzMDQ4ODc4LDEyNz
-k2MzQzNzMsLTExNjY1NTczMDEsMTUzODA5NDYzLC04ODU3NzQ5
-NjcsLTExNzk0NTcwMDksLTQwNDQ4MTk3NCwtMTc0NTI5OTk3My
-wxNjI2NDg5NTIsLTEyMjg0NDYwMDgsNTExNDE1MjIsLTE2NjQy
-OTg1MTMsMzAzMDczOTg1LC0xMDY3NzY4NjM5XX0=
+eyJoaXN0b3J5IjpbLTE3NDAyNDUwOTUsLTc5NTg2ODc0MywxNj
+AzMDQ4ODc4LDEyNzk2MzQzNzMsLTExNjY1NTczMDEsMTUzODA5
+NDYzLC04ODU3NzQ5NjcsLTExNzk0NTcwMDksLTQwNDQ4MTk3NC
+wtMTc0NTI5OTk3MywxNjI2NDg5NTIsLTEyMjg0NDYwMDgsNTEx
+NDE1MjIsLTE2NjQyOTg1MTMsMzAzMDczOTg1LC0xMDY3NzY4Nj
+M5XX0=
 -->
