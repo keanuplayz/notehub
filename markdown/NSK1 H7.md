@@ -36,8 +36,7 @@ Meer deeltjes &rarr; druk groter
 ## Absolute nulpunt
 Gasdruk = druk op wanden in ruimte
 Absolute nulpunt = -273&deg;C (0kPA gasdruk), verder afkoelen kan *niet*
-Kelvin °C + 273.15
-0 K = 273.15 °C
+elin    
 
 # H7 par3 Stoffen scheiden
 Scheidingsmethode:
@@ -78,7 +77,8 @@ Koolstof:
 	* De norit haalt de kleurstof uit de vloeistof.
 	* Er blijft helder water over.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzOTY5ODI0MSwtMTIwNTU1MDQ5NCwtMT
-E5NzIxODQzNiwtMzM2NzA0ODk2LDIwMjEzNjg3ODAsLTEyMzc2
-ODgwMjUsMTg5OTAxNDQzNCwyMDY2ODk3XX0=
+eyJoaXN0b3J5IjpbLTUyNDk2ODUyMywxMjM5Njk4MjQxLC0xMj
+A1NTUwNDk0LC0xMTk3MjE4NDM2LC0zMzY3MDQ4OTYsMjAyMTM2
+ODc4MCwtMTIzNzY4ODAyNSwxODk5MDE0NDM0LDIwNjY4OTddfQ
+==
 -->
