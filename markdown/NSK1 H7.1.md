@@ -52,7 +52,7 @@ Atomen = bouwstenen waaruit moleculen zijn opgebouwd
 - Ethanol = 2 koolstofatomen, 6 waterstofatomen en 1 zuurstofatoom (C<sub>2</sub>H<sub>6</sub>O)
 
 ---
-
+Elementen = stof die niet verder kan worden ontleed door een chemische reactie
 - Protonen
 - Neutronen
 - Elektronen
@@ -78,6 +78,6 @@ Koolstof:
 	* De norit haalt de kleurstof uit de vloeistof.
 	* Er blijft helder water over.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE3Njg3OTQsLTExOTcyMTg0MzYsMjAyMT
-M2ODc4MCwtMTIzNzY4ODAyNV19
+eyJoaXN0b3J5IjpbLTM3MjU2MDkxNiwtMTE5NzIxODQzNiwyMD
+IxMzY4NzgwLC0xMjM3Njg4MDI1XX0=
 -->
