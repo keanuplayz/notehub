@@ -13,6 +13,9 @@ Voor  | Tegen
 - Frequentie hoger
 - Doodringend vermogen hoger
 
+## Soorten straling:
+- Microgolven magnetron
+- Infrarood (warmte)
 Kleur: zachte wave
 Röntgen: aggresieve wave
 
@@ -39,8 +42,9 @@ Per seconde = activitieit (BQ)
 3. Tijd
 4. Afstand
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjY1NTczMDEsMTUzODA5NDYzLC04OD
-U3NzQ5NjcsLTExNzk0NTcwMDksLTQwNDQ4MTk3NCwtMTc0NTI5
-OTk3MywxNjI2NDg5NTIsLTEyMjg0NDYwMDgsNTExNDE1MjIsLT
-E2NjQyOTg1MTMsMzAzMDczOTg1LC0xMDY3NzY4NjM5XX0=
+eyJoaXN0b3J5IjpbLTIxMDM1OTQwNzYsLTExNjY1NTczMDEsMT
+UzODA5NDYzLC04ODU3NzQ5NjcsLTExNzk0NTcwMDksLTQwNDQ4
+MTk3NCwtMTc0NTI5OTk3MywxNjI2NDg5NTIsLTEyMjg0NDYwMD
+gsNTExNDE1MjIsLTE2NjQyOTg1MTMsMzAzMDczOTg1LC0xMDY3
+NzY4NjM5XX0=
 -->
