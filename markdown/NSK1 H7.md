@@ -59,6 +59,7 @@ Nog kleinere deeltjes dan atoom:
 - Neutronen = heeft geen elektrische lading (neutraal)
 - Elektronen = negatief geladen deeltje
 	- Twee negatief geladen elektronen stoten elkaar even sterk af als twee positief geladen protonen.
+ ektronen
 
 Atoomkern is opgebouwd uit twee kleine deeltjes, protonen en neutronen.
 Daar omheen bewegen elektronen.
@@ -83,8 +84,8 @@ Daar omheen bewegen elektronen.
 	* De norit haalt de kleurstof uit de vloeistof.
 	* Er blijft helder water over.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwMTA0NDA5MiwtNTI0OTY4NTIzLC0xMj
-A1NTUwNDk0LC0xMTk3MjE4NDM2LC0zMzY3MDQ4OTYsMjAyMTM2
-ODc4MCwtMTIzNzY4ODAyNSwxODk5MDE0NDM0LDIwNjY4OTddfQ
-==
+eyJoaXN0b3J5IjpbLTE4NTM1OTAyNzgsMTAwMTA0NDA5MiwtNT
+I0OTY4NTIzLC0xMjA1NTUwNDk0LC0xMTk3MjE4NDM2LC0zMzY3
+MDQ4OTYsMjAyMTM2ODc4MCwtMTIzNzY4ODAyNSwxODk5MDE0ND
+M0LDIwNjY4OTddfQ==
 -->
