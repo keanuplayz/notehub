@@ -42,6 +42,8 @@ Natuurlijk radioactief = Radioactieve stoffen van natuurlijke oorsprong (uranium
 Kunstmatig radioactief = Door mensen gemaakt. (1896)
 
 Geigerteller = Sensor die radioactiviteit detecteert
+
+---..
 Ioniserende straling (vanaf UV-B)
 Radioactieve isotopen
 Stoffen die uit zichzelf stralen
@@ -62,9 +64,9 @@ Per seconde = activitieit (BQ)
 3. Tijd
 4. Afstand
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU1OTg5NTMxLC0xMTY2NTU3MzAxLDE1Mz
-gwOTQ2MywtODg1Nzc0OTY3LC0xMTc5NDU3MDA5LC00MDQ0ODE5
-NzQsLTE3NDUyOTk5NzMsMTYyNjQ4OTUyLC0xMjI4NDQ2MDA4LD
-UxMTQxNTIyLC0xNjY0Mjk4NTEzLDMwMzA3Mzk4NSwtMTA2Nzc2
-ODYzOV19
+eyJoaXN0b3J5IjpbLTY4ODczNTE5MCwtMTE2NjU1NzMwMSwxNT
+M4MDk0NjMsLTg4NTc3NDk2NywtMTE3OTQ1NzAwOSwtNDA0NDgx
+OTc0LC0xNzQ1Mjk5OTczLDE2MjY0ODk1MiwtMTIyODQ0NjAwOC
+w1MTE0MTUyMiwtMTY2NDI5ODUxMywzMDMwNzM5ODUsLTEwNjc3
+Njg2MzldfQ==
 -->
