@@ -64,18 +64,21 @@ Dracht = geeft aan hoe ver de straling in een stof kan doordringen
 
 # H8 P4 Straling beschermen
 Bescherming tegen straling:
-1. Dosismeter
-2. Inpakken
-3. Tijd (kort houden)
-4. Afstand (groot houden)
-5. Afschermingsmateriaal (lood, dikke laag)
+- Dosismeter
+- Inpakken
+- Tijd (kort houden)
+- Afstand (groot houden)
+- Afschermingsmateriaal (lood, dikke laag)
 
-
+Maatregelen bij besmetting:
+- Kleding uit en douchen
+- Besmette kleding zorgvuldig opbergen
+- Besmette ruimtes ontsmetten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY5NzQ2NTcxLDEzMjUyODMxNDMsLTE3ND
-AyNDUwOTUsLTc5NTg2ODc0MywxNjAzMDQ4ODc4LDEyNzk2MzQz
-NzMsLTExNjY1NTczMDEsMTUzODA5NDYzLC04ODU3NzQ5NjcsLT
-ExNzk0NTcwMDksLTQwNDQ4MTk3NCwtMTc0NTI5OTk3MywxNjI2
-NDg5NTIsLTEyMjg0NDYwMDgsNTExNDE1MjIsLTE2NjQyOTg1MT
-MsMzAzMDczOTg1LC0xMDY3NzY4NjM5XX0=
+eyJoaXN0b3J5IjpbMTc0Mjk5MzI2NiwxMzI1MjgzMTQzLC0xNz
+QwMjQ1MDk1LC03OTU4Njg3NDMsMTYwMzA0ODg3OCwxMjc5NjM0
+MzczLC0xMTY2NTU3MzAxLDE1MzgwOTQ2MywtODg1Nzc0OTY3LC
+0xMTc5NDU3MDA5LC00MDQ0ODE5NzQsLTE3NDUyOTk5NzMsMTYy
+NjQ4OTUyLC0xMjI4NDQ2MDA4LDUxMTQxNTIyLC0xNjY0Mjk4NT
+EzLDMwMzA3Mzk4NSwtMTA2Nzc2ODYzOV19
 -->
