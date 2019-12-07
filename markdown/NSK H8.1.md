@@ -48,6 +48,7 @@ Instabiele atoomkernen = Kernen die spontaan veranderen en daardoor straling uit
 Stabiele atoomkernen = Zitten in stoffen die niet radioactief zijn
 
 Activiteit = Aantal kernen dat per seconde uiteenvalt (BQ)
+T = halveringstijd (hoeveelheid radioactief materiaal wordt steeds kleiner)
 Ioniserende straling (vanaf UV-B)
 Radioactieve isotopen
 Stoffen die uit zichzelf stralen
@@ -65,5 +66,5 @@ Stoffen die uit zichzelf stralen
 3. Tijd
 4. Afstand
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMzA0ODg3OF19
+eyJoaXN0b3J5IjpbLTc5NTg2ODc0MywxNjAzMDQ4ODc4XX0=
 -->
