@@ -1,5 +1,6 @@
 # H8 P1 Wat is straling?
 Argumenten van kernenergie:
+
 |Voor|Tegen|
 |--|--|
 |Doet het altijd|~~Opwarming~~
@@ -75,7 +76,7 @@ Maatregelen bij besmetting:
 - Besmette kleding zorgvuldig opbergen
 - Besmette ruimtes ontsmetten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODI0ODA1NzgsMTc0Mjk5MzI2NiwxMz
-I1MjgzMTQzLC0xNzQwMjQ1MDk1LC03OTU4Njg3NDMsMTYwMzA0
-ODg3OF19
+eyJoaXN0b3J5IjpbMTk5MzM0NDkxMiwxNzQyOTkzMjY2LDEzMj
+UyODMxNDMsLTE3NDAyNDUwOTUsLTc5NTg2ODc0MywxNjAzMDQ4
+ODc4XX0=
 -->
