@@ -18,6 +18,7 @@ Zuurstof wordt verbruikt, nieuwe stof onstaat: water en CO<sub>2</sub>
 
 ---
 Gasdruk = druk op wanden in ruimte
+Absolute nulpunt = -273&deg;C, verder af
 
 Deeltjes zijn atomen en moleculen
 12g koolstof, ![enter image description here](https://latex.codecogs.com/png.latex?6.23%20*%2010%5E2%5E3) deeltjes
@@ -63,5 +64,6 @@ Koolstof:
 	* De norit haalt de kleurstof uit de vloeistof.
 	* Er blijft helder water over.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMTM2ODc4MCwtMTIzNzY4ODAyNV19
+eyJoaXN0b3J5IjpbLTE1NTk0NzQ2NjAsMjAyMTM2ODc4MCwtMT
+IzNzY4ODAyNV19
 -->
