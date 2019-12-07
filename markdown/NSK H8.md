@@ -1,12 +1,12 @@
 # H8 P1 Wat is straling?
 Argumenten van kernenergie:
-Voor  | Tegen
-|---|---|
-|Doet het altijd  | ~~Opwarming~~
-|Geen cO2 uitstoot  |Risicovol (chernobyl)
-|Weinig afval |Kernramp
-|Makkelijk op te slaan | Kernafval
-|Minder dodelijk |Duur om te bouwen
+|Voor|Tegen|
+|--|--|
+|Doet het altijd|~~Opwarming~~
+|Geen cO2 uitstoot|Risicovol (chernobyl)
+|Weinig afval|Kernramp
+|Makkelijk op te slaan|Kernafval
+|Minder dodelijk|Duur om te bouwen
 
 ## Eigenshappen:
 - Straling is o.a. licht
@@ -75,11 +75,11 @@ Maatregelen bij besmetting:
 - Besmette kleding zorgvuldig opbergen
 - Besmette ruimtes ontsmetten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzI4NzkzMjgsMTc0Mjk5MzI2NiwxMz
-I1MjgzMTQzLC0xNzQwMjQ1MDk1LC03OTU4Njg3NDMsMTYwMzA0
-ODg3OCwxMjc5NjM0MzczLC0xMTY2NTU3MzAxLDE1MzgwOTQ2My
-wtODg1Nzc0OTY3LC0xMTc5NDU3MDA5LC00MDQ0ODE5NzQsLTE3
-NDUyOTk5NzMsMTYyNjQ4OTUyLC0xMjI4NDQ2MDA4LDUxMTQxNT
-IyLC0xNjY0Mjk4NTEzLDMwMzA3Mzk4NSwtMTA2Nzc2ODYzOV19
-
+eyJoaXN0b3J5IjpbLTE3ODI0ODA1NzgsLTE2MzI4NzkzMjgsMT
+c0Mjk5MzI2NiwxMzI1MjgzMTQzLC0xNzQwMjQ1MDk1LC03OTU4
+Njg3NDMsMTYwMzA0ODg3OCwxMjc5NjM0MzczLC0xMTY2NTU3Mz
+AxLDE1MzgwOTQ2MywtODg1Nzc0OTY3LC0xMTc5NDU3MDA5LC00
+MDQ0ODE5NzQsLTE3NDUyOTk5NzMsMTYyNjQ4OTUyLC0xMjI4ND
+Q2MDA4LDUxMTQxNTIyLC0xNjY0Mjk4NTEzLDMwMzA3Mzk4NSwt
+MTA2Nzc2ODYzOV19
 -->
