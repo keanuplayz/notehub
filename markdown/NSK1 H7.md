@@ -46,9 +46,9 @@ Kelvin °C + 273.15
 
 
 |   | Protonen  | Neutronen  | Elektronen  |
-|---|---|---|---|---|
-| Lading  | 1  | 0  | -1  |   |
-| Massa  |  1 | 1  | 0  |   |
+|---|---|---|---|
+| Lading  | 1  | 0  | -1  |
+| Massa  |  1 | 1  | 0  |
 
 Koolstof: 
 
@@ -65,7 +65,7 @@ Koolstof:
 	* De norit haalt de kleurstof uit de vloeistof.
 	* Er blijft helder water over.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MDgxMDA2MywtMzM2NzA0ODk2LDIwMj
+eyJoaXN0b3J5IjpbMTc0MTQxNTEzNiwtMzM2NzA0ODk2LDIwMj
 EzNjg3ODAsLTEyMzc2ODgwMjUsMTg5OTAxNDQzNCwyMDY2ODk3
 XX0=
 -->
