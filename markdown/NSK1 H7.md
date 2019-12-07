@@ -21,6 +21,7 @@ Zuurstof wordt verbruikt, nieuwe stof onstaat: water en CO<sub>2</sub>
 
 Deeltjes zijn atomen en moleculen
 12g koolstof, ![enter image description here](https://latex.codecogs.com/png.latex?6.23%20*%2010%5E2%5E3) deeltjes
+(temperatuur in de natuurkunde in Kelvin schaal)
 
 vast: &rarr; vloeistof: &rarr; gas:
 (zie blaadje)
@@ -35,14 +36,14 @@ Meer deeltjes &rarr; druk groter
 ## Absolute nulpunt
 Gasdruk = druk op wanden in ruimte
 Absolute nulpunt = -273&deg;C (0kPA gasdruk), verder afkoelen kan *niet*
-Kelvin °C + 273.15
-0 K = 273.15 °C
+
 
 # H7 par3 Stoffen scheiden
 Scheidingsmethode:
 - Indampen
 - Filtreren
-- Extraheren
+- ExtraherenKelvin °C + 273.15
+0 K = 273.15 °C
 
 # H7 par4 Atomen en moleculen.
 - Protonen
@@ -51,9 +52,9 @@ Scheidingsmethode:
 
 
 |   | Protonen  | Neutronen  | Elektronen  |
-|---|---|---|---|
+|---|---|---|
 | Lading  | 1  | 0  | -1  |
-| Massa  |  1 | 1  | 0  |
+| Massa  |  1 | 1  |
 
 Koolstof: 
 
@@ -70,7 +71,7 @@ Koolstof:
 	* De norit haalt de kleurstof uit de vloeistof.
 	* Er blijft helder water over.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTcyMTg0MzYsLTMzNjcwNDg5NiwyMD
-IxMzY4NzgwLC0xMjM3Njg4MDI1LDE4OTkwMTQ0MzQsMjA2Njg5
-N119
+eyJoaXN0b3J5IjpbLTEyMDU1NTA0OTQsLTExOTcyMTg0MzYsLT
+MzNjcwNDg5NiwyMDIxMzY4NzgwLC0xMjM3Njg4MDI1LDE4OTkw
+MTQ0MzQsMjA2Njg5N119
 -->
