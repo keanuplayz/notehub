@@ -47,14 +47,15 @@ Scheidingsmethode:
 
 Zuivere stof = Alle moleculen zijn van de zelfde soort
 
-# H7 par4 Atomen en moleculen.
+# H7 par4 Atomen als bouwstenen
+Atomen = bouwstenen waaruit moleculen zijn opgebouwd
 - Protonen
 - Neutronen
 - Elektronen
 
 
 |   | Protonen  | Neutronen  | Elektronen  |
-|---|---|---|
+|---|---|---|---|
 | Lading  | 1  | 0  | -1  |
 | Massa  |  1 | 1  |
 
@@ -73,7 +74,7 @@ Koolstof:
 	* De norit haalt de kleurstof uit de vloeistof.
 	* Er blijft helder water over.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTA2NzUxNjcsLTEyMDU1NTA0OTQsLT
-ExOTcyMTg0MzYsLTMzNjcwNDg5NiwyMDIxMzY4NzgwLC0xMjM3
-Njg4MDI1LDE4OTkwMTQ0MzQsMjA2Njg5N119
+eyJoaXN0b3J5IjpbMTc3NTc5NDU2OCwtMTIwNTU1MDQ5NCwtMT
+E5NzIxODQzNiwtMzM2NzA0ODk2LDIwMjEzNjg3ODAsLTEyMzc2
+ODgwMjUsMTg5OTAxNDQzNCwyMDY2ODk3XX0=
 -->
