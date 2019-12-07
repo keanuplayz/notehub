@@ -20,6 +20,7 @@ Voor  | Tegen
 - UV straling zonnebank
 - Röntgenstraling
 
+Waarneembare straling: kleuren van gewoon licht (rest is onzichtbaar)
 Kleur: zachte wave
 Röntgen: aggresieve wave
 
@@ -46,5 +47,5 @@ Per seconde = activitieit (BQ)
 3. Tijd
 4. Afstand
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzQxNDMzMzNdfQ==
+eyJoaXN0b3J5IjpbOTE3MDYxMzM5XX0=
 -->
