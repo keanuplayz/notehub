@@ -43,7 +43,9 @@ Kunstmatig radioactief = Door mensen gemaakt. (1896)
 
 Geigerteller = Sensor die radioactiviteit detecteert
 
----..........................
+---
+Instabiele atoomkernen = Kernen die spontaan veranderen en daardoor straling uitzenden (= radioactief verval)
+Stabiele atoomkernen = Zitten in stoffen die niet radioactief zijn
 Ioniserende straling (vanaf UV-B)
 Radioactieve isotopen
 Stoffen die uit zichzelf stralen
@@ -64,5 +66,5 @@ Per seconde = activitieit (BQ)
 3. Tijd
 4. Afstand
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNzM3NjA0Ml19
+eyJoaXN0b3J5IjpbLTM4NTI3OTQ3Ml19
 -->
