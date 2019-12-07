@@ -4,7 +4,8 @@ Moleculen = heel kleine deeltjes van stof
 Deeltjesmodel = Moleculen worden voorgesteld met de volgende eigenschappen:
 *  Moleculen van stof veranderen niet
 * Moleculen van stof bewegen voortdurend
-* Moleculen van stof 
+* Moleculen van stof trekken elkaar aan
+
 Deeltjes zijn atomen en moleculen
 12g koolstof, ![enter image description here](https://latex.codecogs.com/png.latex?6.23%20*%2010%5E2%5E3) deeltjes
 Temperatuur = gemiddelde snelheid van deeltjes
@@ -49,5 +50,5 @@ Koolstof:
 	* De norit haalt de kleurstof uit de vloeistof.
 	* Er blijft helder water over.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5MTExNzc2N119
+eyJoaXN0b3J5IjpbLTM3NjE4OTkyNV19
 -->
