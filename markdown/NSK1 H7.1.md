@@ -65,7 +65,7 @@ Nog kleinere deeltjes dan atoom:
 | Lading  | 1  | 0  | -1  |
 | Massa  |  1 | 1  |
 
-Koolstof: 
+
 
 ## Practicum Scheiden
 1. Zwarte poeder
@@ -80,6 +80,6 @@ Koolstof:
 	* De norit haalt de kleurstof uit de vloeistof.
 	* Er blijft helder water over.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTAyMTg4NTIsLTExOTcyMTg0MzYsMj
+eyJoaXN0b3J5IjpbLTE1OTg0ODk3MzMsLTExOTcyMTg0MzYsMj
 AyMTM2ODc4MCwtMTIzNzY4ODAyNV19
 -->
