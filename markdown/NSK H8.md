@@ -1,5 +1,6 @@
 # H8 P1 Wat is straling?
 Argumenten van kernenergie:
+
 |Voor|Tegen|
 |--|--|
 |Doet het altijd|~~Opwarming~~
@@ -75,11 +76,11 @@ Maatregelen bij besmetting:
 - Besmette kleding zorgvuldig opbergen
 - Besmette ruimtes ontsmetten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODI0ODA1NzgsLTE2MzI4NzkzMjgsMT
-c0Mjk5MzI2NiwxMzI1MjgzMTQzLC0xNzQwMjQ1MDk1LC03OTU4
-Njg3NDMsMTYwMzA0ODg3OCwxMjc5NjM0MzczLC0xMTY2NTU3Mz
-AxLDE1MzgwOTQ2MywtODg1Nzc0OTY3LC0xMTc5NDU3MDA5LC00
-MDQ0ODE5NzQsLTE3NDUyOTk5NzMsMTYyNjQ4OTUyLC0xMjI4ND
-Q2MDA4LDUxMTQxNTIyLC0xNjY0Mjk4NTEzLDMwMzA3Mzk4NSwt
-MTA2Nzc2ODYzOV19
+eyJoaXN0b3J5IjpbMTk5MzM0NDkxMiwtMTYzMjg3OTMyOCwxNz
+QyOTkzMjY2LDEzMjUyODMxNDMsLTE3NDAyNDUwOTUsLTc5NTg2
+ODc0MywxNjAzMDQ4ODc4LDEyNzk2MzQzNzMsLTExNjY1NTczMD
+EsMTUzODA5NDYzLC04ODU3NzQ5NjcsLTExNzk0NTcwMDksLTQw
+NDQ4MTk3NCwtMTc0NTI5OTk3MywxNjI2NDg5NTIsLTEyMjg0ND
+YwMDgsNTExNDE1MjIsLTE2NjQyOTg1MTMsMzAzMDczOTg1LC0x
+MDY3NzY4NjM5XX0=
 -->
