@@ -15,7 +15,8 @@ Vaste stof = moleculen vaste plaats, kleine afstand, aantrekkingskracht groot
 
 Moleculen veranderen niet bij Vloeistof = moleculen geen vaste plaats, aantrekkingskracht kleinerfaseovergang (verhitting)
 Moleculen veranderen wel bij chemische reactie (verbranding aardgas)
-Zuurstof wordt verbruikt, niu
+Zuurstof wordt verbruikt, nieuwe stof onstaat: water en CO<sub>2</sub>
+
 
 ---
 
@@ -63,6 +64,6 @@ Koolstof:
 	* De norit haalt de kleurstof uit de vloeistof.
 	* Er blijft helder water over.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzI3MTkxOTEsMTg5OTAxNDQzNCwyMD
+eyJoaXN0b3J5IjpbLTEyMzc2ODgwMjUsMTg5OTAxNDQzNCwyMD
 Y2ODk3XX0=
 -->
