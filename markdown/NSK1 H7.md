@@ -36,7 +36,7 @@ Meer deeltjes &rarr; druk groter
 ## Absolute nulpunt
 Gasdruk = druk op wanden in ruimte
 Absolute nulpunt = -273&deg;C (0kPA gasdruk), verder afkoelen kan *niet*
-elin    
+elin 
 
 # H7 par3 Stoffen scheiden
 Scheidingsmethode:
@@ -48,10 +48,12 @@ Zuivere stof = Alle moleculen zijn van de zelfde soort
 
 # H7 par4 Atomen als bouwstenen
 Atomen = bouwstenen waaruit moleculen zijn opgebouwd
-- Watermolecuul = 1 zuurstofatoom en 2 waterstofatomen
+- Watermolecuul = 1 zuurstofatoom en 2 waterstofatomen (H<sub>2</sub>O)
 - Ethanol = 2 koolstofatomen, 6 waterstofatomen en 1 zuurstofatoom
 
+(C<sub>2</sub>H<sub>6</sub>O)
 
+---
 - Protonen
 - Neutronen
 - Elektronen
@@ -77,8 +79,8 @@ Koolstof:
 	* De norit haalt de kleurstof uit de vloeistof.
 	* Er blijft helder water over.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNDk2ODUyMywxMjM5Njk4MjQxLC0xMj
-A1NTUwNDk0LC0xMTk3MjE4NDM2LC0zMzY3MDQ4OTYsMjAyMTM2
-ODc4MCwtMTIzNzY4ODAyNSwxODk5MDE0NDM0LDIwNjY4OTddfQ
-==
+eyJoaXN0b3J5IjpbLTE4MDU5Nzg0NDIsLTUyNDk2ODUyMywtMT
+IwNTU1MDQ5NCwtMTE5NzIxODQzNiwtMzM2NzA0ODk2LDIwMjEz
+Njg3ODAsLTEyMzc2ODgwMjUsMTg5OTAxNDQzNCwyMDY2ODk3XX
+0=
 -->
