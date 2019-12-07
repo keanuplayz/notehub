@@ -59,7 +59,6 @@ Nog kleinere deeltjes dan atoom:
 - Neutronen = heeft geen elektrische lading (neutraal)
 - Elektronen = negatief geladen deeltje
 	- Twee negatief geladen elektronen stoten elkaar even sterk af als twee positief geladen protonen.
- ektronen
 
 Atoomkern is opgebouwd uit twee kleine deeltjes, protonen en neutronen.
 Daar omheen bewegen elektronen.
@@ -68,7 +67,6 @@ Daar omheen bewegen elektronen.
 |---|---|---|---|
 | Lading  | 1  | 0  | -1  |
 | Massa  |  1 | 1  | 0
-Isotopen = 
 
 
 ## Practicum Scheiden
