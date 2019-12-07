@@ -63,15 +63,19 @@ Stoffen die uit zichzelf stralen
 Dracht = geeft aan hoe ver de straling in een stof kan doordringen
 
 # H8 P4 Straling beschermen
+Bescherming tegen straling:
 1. Dosismeter
 2. Inpakken
 3. Tijd
 4. Afstand
+5. Afschermingsmateriaal
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNTI4MzE0MywtMTc0MDI0NTA5NSwtNz
-k1ODY4NzQzLDE2MDMwNDg4NzgsMTI3OTYzNDM3MywtMTE2NjU1
-NzMwMSwxNTM4MDk0NjMsLTg4NTc3NDk2NywtMTE3OTQ1NzAwOS
-wtNDA0NDgxOTc0LC0xNzQ1Mjk5OTczLDE2MjY0ODk1MiwtMTIy
-ODQ0NjAwOCw1MTE0MTUyMiwtMTY2NDI5ODUxMywzMDMwNzM5OD
-UsLTEwNjc3Njg2MzldfQ==
+eyJoaXN0b3J5IjpbMTY1NTc3OTAwMCwxMzI1MjgzMTQzLC0xNz
+QwMjQ1MDk1LC03OTU4Njg3NDMsMTYwMzA0ODg3OCwxMjc5NjM0
+MzczLC0xMTY2NTU3MzAxLDE1MzgwOTQ2MywtODg1Nzc0OTY3LC
+0xMTc5NDU3MDA5LC00MDQ0ODE5NzQsLTE3NDUyOTk5NzMsMTYy
+NjQ4OTUyLC0xMjI4NDQ2MDA4LDUxMTQxNTIyLC0xNjY0Mjk4NT
+EzLDMwMzA3Mzk4NSwtMTA2Nzc2ODYzOV19
 -->
