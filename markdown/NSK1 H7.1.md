@@ -6,15 +6,17 @@ Deeltjesmodel = Moleculen worden voorgesteld met de volgende eigenschappen:
 * Moleculen van stof bewegen voortdurend
 * Moleculen van stof trekken elkaar aan
 ---
-* Vaste stof = moleculen vaste plaats, kleine afstand, aantrekkingskracht groot
+* 
+Vaste stof = moleculen vaste plaats, kleine afstand, aantrekkingskracht groot
 	* Bij hogere temp neemt aantrekkingskracht af (smelt, vloeistof)
 * Vloeistof = moleculen geen vaste plaats, aantrekkingskracht kleiner
 	* Bij hogere temp stijgt snelheid moleculen, ontsnappen uit vloeistof (verdampen)
 * Gas = moleculen los van elkaar, afstand groot, aantrekkingskracht klein
 
-Moleculen veranderen niet bij faseovergang (verhitting)
+Moleculen veranderen niet bij Vloeistof = moleculen geen vaste plaats, aantrekkingskracht kleinerfaseovergang (verhitting)
 Moleculen veranderen wel bij chemische reactie (verbranding aardgas)
-Zuurstof wordt verbruikt, 
+Zuurstof wordt verbruikt, nieuwe stof onstaat: water en CO<sub>2</sub>
+
 
 ---
 
@@ -62,5 +64,5 @@ Koolstof:
 	* De norit haalt de kleurstof uit de vloeistof.
 	* Er blijft helder water over.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNTM1Nzk0MV19
+eyJoaXN0b3J5IjpbLTEyMzc2ODgwMjVdfQ==
 -->
