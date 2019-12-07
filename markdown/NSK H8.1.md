@@ -26,17 +26,14 @@ Röntgen: Botten absorberen straling bijna helemaal, spieren en vetweefsel laten
 
 ---
 Stralingsenergie is energie die vrijkomt bij straling. (warmte)
-Ioniserende straling =  UV straling in zonlicht maakt kleurstofmoleculen kapot. (kleuren verbleken)
+Ioniserende straling:
+- UV straling in zonlicht maakt kleurstofmoleculen kapot. (kleuren verbleken, zwak ioniserend)
+- Röntgen kan je makkelijker ziek maken.
 
 Kleur: zachte wave
 Röntgen: aggresieve wave
 
 Hoe dichter iets is, hoe slechter straling doordringt (absorptie)
-
-|  |  |
-|--|--|
-|  |  |
-
 
 # H8 P2 Radioactiviteit
 Ioniserende straling (vanaf UV-B)
@@ -59,5 +56,5 @@ Per seconde = activitieit (BQ)
 3. Tijd
 4. Afstand
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMjQzMTIxOF19
+eyJoaXN0b3J5IjpbLTIyNzc4NzQ2NF19
 -->
