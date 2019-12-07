@@ -53,6 +53,8 @@ Atomen = bouwstenen waaruit moleculen zijn opgebouwd
 
 ---
 Elementen = stof die niet verder kan worden ontleed door een chemische reactie
+
+Nog kleinere deeltjes dan atoom:
 - Protonen
 - Neutronen
 - Elektronen
@@ -78,6 +80,6 @@ Koolstof:
 	* De norit haalt de kleurstof uit de vloeistof.
 	* Er blijft helder water over.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MjU2MDkxNiwtMTE5NzIxODQzNiwyMD
-IxMzY4NzgwLC0xMjM3Njg4MDI1XX0=
+eyJoaXN0b3J5IjpbLTE2OTAyMTg4NTIsLTExOTcyMTg0MzYsMj
+AyMTM2ODc4MCwtMTIzNzY4ODAyNV19
 -->
