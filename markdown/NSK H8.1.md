@@ -38,7 +38,7 @@ Hoe dichter iets is, hoe slechter straling doordringt (absorptie)
 
 # H8 P2 Radioactiviteit
 Radioactief = zend zelf (ioniserende)straling uit
-Natuurlijk radioactief = Radioactieve stoffen van natuurlijke oorsprong (uraniumerts)
+Natuurlijk radioactief = Rradioactieve stoffen van natuurlijke oorsprong (uraniumerts)
 Kunstmatig radioactief = Door mensen gemaakt. (1896)
 
 Geigerteller = Sensor die radioactiviteit detecteert
@@ -46,12 +46,11 @@ Geigerteller = Sensor die radioactiviteit detecteert
 ---
 Instabiele atoomkernen = Kernen die spontaan veranderen en daardoor straling uitzenden (= radioactief verval)
 Stabiele atoomkernen = Zitten in stoffen die niet radioactief zijn
+
+Activiteit = Aantal kernen dat per seconde uiteenvalt (BQ)
 Ioniserende straling (vanaf UV-B)
 Radioactieve isotopen
 Stoffen die uit zichzelf stralen
-
-Hoeveelheid kernen dat uiteenvalt
-Per seconde = activitieit (BQ)
 
 # H8 P3 Straling gebruiken
 α (alfa) straling (hoog ioniserend, laag doordringend)
@@ -66,5 +65,5 @@ Per seconde = activitieit (BQ)
 3. Tijd
 4. Afstand
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4NTI3OTQ3Ml19
+eyJoaXN0b3J5IjpbMTYwMzA0ODg3OF19
 -->
