@@ -13,7 +13,12 @@ Vaste stof = moleculen vaste plaats, kleine afstand, aantrekkingskracht groot
 	* Bij hogere temp stijgt snelheid moleculen, ontsnappen uit vloeistof (verdampen)
 * Gas = moleculen los van elkaar, afstand groot, aantrekkingskracht klein
 
-Moleculen veranderen niet bij Vloeistof = moleculen geen vaste plaats, aantrekkingskracht kleiner
+Moleculen veranderen niet bij Vloeistof = moleculen geen vaste plaats, aantrekkingskracht kleinerfaseovergang (verhitting)
+Moleculen veranderen wel bij chemische reactie (verbranding aardgas)
+Zuurstof wordt verbruikt, niu
+
+---
+
 Deeltjes zijn atomen en moleculen
 12g koolstof, ![enter image description here](https://latex.codecogs.com/png.latex?6.23%20*%2010%5E2%5E3) deeltjes
 Temperatuur = gemiddelde snelheid van deeltjes
@@ -58,6 +63,6 @@ Koolstof:
 	* De norit haalt de kleurstof uit de vloeistof.
 	* Er blijft helder water over.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5OTAxNDQzNCwtMTExMzE3MjQ2LDIwNj
-Y4OTddfQ==
+eyJoaXN0b3J5IjpbLTE3MzI3MTkxOTEsMTg5OTAxNDQzNCwyMD
+Y2ODk3XX0=
 -->
