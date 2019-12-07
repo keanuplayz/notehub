@@ -56,8 +56,9 @@ Elementen = stof die niet verder kan worden ontleed door een chemische reactie
 
 Nog kleinere deeltjes dan atoom:
 - Protonen
-- Neutronen
-- Elektronen
+- Neutronen = heeft geen elektrische lading (neutraal)
+- Elektronen = negatief geladen deeltje
+	- Twee negatief geladen elektronen stoten 
 
 Atoomkern is opgebouwd uit twee kleine deeltjes, protonen en neutronen.
 Daar omheen bewegen elektronen.
@@ -65,7 +66,7 @@ Daar omheen bewegen elektronen.
 |   | Protonen  | Neutronen  | Elektronen  |
 |---|---|---|---|
 | Lading  | 1  | 0  | -1  |
-| Massa  |  1 | 1  |
+| Massa  |  1 | 1  | 0
 
 
 
@@ -82,6 +83,6 @@ Daar omheen bewegen elektronen.
 	* De norit haalt de kleurstof uit de vloeistof.
 	* Er blijft helder water over.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3Mjk4ODA1MCwtMTE5NzIxODQzNiwyMD
+eyJoaXN0b3J5IjpbLTMwMzkwMzA3MSwtMTE5NzIxODQzNiwyMD
 IxMzY4NzgwLC0xMjM3Njg4MDI1XX0=
 -->
