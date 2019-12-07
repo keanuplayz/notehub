@@ -68,7 +68,7 @@ Daar omheen bewegen elektronen.
 |---|---|---|---|
 | Lading  | 1  | 0  | -1  |
 | Massa  |  1 | 1  | 0
-
+Isotopen = 
 
 
 ## Practicum Scheiden
@@ -84,8 +84,8 @@ Daar omheen bewegen elektronen.
 	* De norit haalt de kleurstof uit de vloeistof.
 	* Er blijft helder water over.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTM1OTAyNzgsMTAwMTA0NDA5MiwtNT
-I0OTY4NTIzLC0xMjA1NTUwNDk0LC0xMTk3MjE4NDM2LC0zMzY3
-MDQ4OTYsMjAyMTM2ODc4MCwtMTIzNzY4ODAyNSwxODk5MDE0ND
-M0LDIwNjY4OTddfQ==
+eyJoaXN0b3J5IjpbNjU2ODA1MjQwLC0xODUzNTkwMjc4LC01Mj
+Q5Njg1MjMsLTEyMDU1NTA0OTQsLTExOTcyMTg0MzYsLTMzNjcw
+NDg5NiwyMDIxMzY4NzgwLC0xMjM3Njg4MDI1LDE4OTkwMTQ0Mz
+QsMjA2Njg5N119
 -->
