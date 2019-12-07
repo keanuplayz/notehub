@@ -1,5 +1,6 @@
 # H7 par1 Materie en het deeltjesmodel
 Materie = alle stoffen
+Mol
 
 Deeltjes zijn atomen en moleculen
 12g koolstof, ![enter image description here](https://latex.codecogs.com/png.latex?6.23%20*%2010%5E2%5E3) deeltjes
@@ -45,5 +46,5 @@ Koolstof:
 	* De norit haalt de kleurstof uit de vloeistof.
 	* Er blijft helder water over.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2Njg5N119
+eyJoaXN0b3J5IjpbNjgwMDc3MSwyMDY2ODk3XX0=
 -->
