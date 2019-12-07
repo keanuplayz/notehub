@@ -21,6 +21,7 @@ Zuurstof wordt verbruikt, nieuwe stof onstaat: water en CO<sub>2</sub>
 
 Deeltjes zijn atomen en moleculen
 12g koolstof, ![enter image description here](https://latex.codecogs.com/png.latex?6.23%20*%2010%5E2%5E3) deeltjes
+(temperatuur in de natuurkunde in Kelvin schaal)
 
 vast: &rarr; vloeistof: &rarr; gas:
 (zie blaadje)
@@ -43,7 +44,8 @@ Scheidingsmethode:
 - Indampen
 - Filtreren
 - Extraheren
-Zuiver
+
+Zuivere stof = Alle moleculen zijn van de zelfde soort
 
 # H7 par4 Atomen en moleculen.
 - Protonen
@@ -52,11 +54,10 @@ Zuiver
 
 
 |   | Protonen  | Neutronen  | Elektronen  |
-|---|---|---|---|
+|---|---|---|
 | Lading  | 1  | 0  | -1  |
-| Massa  |  1 | 1  | 0  |
+| Massa  |  1 | 1  |
 
-()[https://prnt.sc/q7i244]
 Koolstof: 
 
 ## Practicum Scheiden
@@ -72,6 +73,6 @@ Koolstof:
 	* De norit haalt de kleurstof uit de vloeistof.
 	* Er blijft helder water over.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMzMjUzODQ3LC0xMTk3MjE4NDM2LDIwMj
-EzNjg3ODAsLTEyMzc2ODgwMjVdfQ==
+eyJoaXN0b3J5IjpbLTE3NTA2NzUxNjcsLTExOTcyMTg0MzYsMj
+AyMTM2ODc4MCwtMTIzNzY4ODAyNV19
 -->
