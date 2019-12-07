@@ -6,13 +6,14 @@ Deeltjesmodel = Moleculen worden voorgesteld met de volgende eigenschappen:
 * Moleculen van stof bewegen voortdurend
 * Moleculen van stof trekken elkaar aan
 ---
-* Vaste stof = moleculen vaste plaats, kleine afstand, aantrekkingskracht groot
+* 
+Vaste stof = moleculen vaste plaats, kleine afstand, aantrekkingskracht groot
 	* Bij hogere temp neemt aantrekkingskracht af (smelt, vloeistof)
 * Vloeistof = moleculen geen vaste plaats, aantrekkingskracht kleiner
 	* Bij hogere temp stijgt snelheid moleculen, ontsnappen uit vloeistof (verdampen)
 * Gas = moleculen los van elkaar, afstand groot, aantrekkingskracht klein
 
-Moleculen veranderen niet bij 
+Moleculen veranderen niet bij Vloeistof = moleculen geen vaste plaats, aantrekkingskracht kleiner
 Deeltjes zijn atomen en moleculen
 12g koolstof, ![enter image description here](https://latex.codecogs.com/png.latex?6.23%20*%2010%5E2%5E3) deeltjes
 Temperatuur = gemiddelde snelheid van deeltjes
@@ -57,5 +58,6 @@ Koolstof:
 	* De norit haalt de kleurstof uit de vloeistof.
 	* Er blijft helder water over.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTMxNzI0NiwyMDY2ODk3XX0=
+eyJoaXN0b3J5IjpbMTg5OTAxNDQzNCwtMTExMzE3MjQ2LDIwNj
+Y4OTddfQ==
 -->
