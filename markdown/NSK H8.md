@@ -21,6 +21,8 @@ Voor  | Tegen
 - Röntgenstraling
 
 Waarneembare straling: kleuren van gewoon licht (rest is onzichtbaar zonder instrumenten)
+
+Röntgen: Botten absorberen straling bijna helemaal, spieren en vetweefsel laten straling bijna helemaal door. Daardoor ontstaat negatief beeld waarin licht en donker zijn 
 Kleur: zachte wave
 Röntgen: aggresieve wave
 
@@ -47,7 +49,7 @@ Per seconde = activitieit (BQ)
 3. Tijd
 4. Afstand
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzE1MDE5MTcsLTExNjY1NTczMDEsMT
+eyJoaXN0b3J5IjpbLTEwNTg5MDk4MjksLTExNjY1NTczMDEsMT
 UzODA5NDYzLC04ODU3NzQ5NjcsLTExNzk0NTcwMDksLTQwNDQ4
 MTk3NCwtMTc0NTI5OTk3MywxNjI2NDg5NTIsLTEyMjg0NDYwMD
 gsNTExNDE1MjIsLTE2NjQyOTg1MTMsMzAzMDczOTg1LC0xMDY3
