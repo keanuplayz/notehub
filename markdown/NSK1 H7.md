@@ -44,6 +44,7 @@ Scheidingsmethode:
 - Filtreren
 - ExtraherenKelvin °C + 273.15
 0 K = 273.15 °C
+Zuiver
 
 # H7 par4 Atomen en moleculen.
 - Protonen
@@ -56,6 +57,7 @@ Scheidingsmethode:
 | Lading  | 1  | 0  | -1  |
 | Massa  |  1 | 1  |
 
+()[https://prnt.sc/q7i244]
 Koolstof: 
 
 ## Practicum Scheiden
@@ -71,7 +73,7 @@ Koolstof:
 	* De norit haalt de kleurstof uit de vloeistof.
 	* Er blijft helder water over.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDU1NTA0OTQsLTExOTcyMTg0MzYsLT
-MzNjcwNDg5NiwyMDIxMzY4NzgwLC0xMjM3Njg4MDI1LDE4OTkw
-MTQ0MzQsMjA2Njg5N119
+eyJoaXN0b3J5IjpbLTE5MzA5MTMxNzMsLTEyMDU1NTA0OTQsLT
+ExOTcyMTg0MzYsLTMzNjcwNDg5NiwyMDIxMzY4NzgwLC0xMjM3
+Njg4MDI1LDE4OTkwMTQ0MzQsMjA2Njg5N119
 -->
