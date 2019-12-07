@@ -49,6 +49,10 @@ Zuivere stof = Alle moleculen zijn van de zelfde soort
 
 # H7 par4 Atomen als bouwstenen
 Atomen = bouwstenen waaruit moleculen zijn opgebouwd
+- Watermolecuul = 1 zuurstofatoom en 2 waterstofatomen
+- Ethanol = 2 koolstofatomen, 6 waterstofatomen en 1 zuurstofatoom
+
+
 - Protonen
 - Neutronen
 - Elektronen
@@ -74,6 +78,6 @@ Koolstof:
 	* De norit haalt de kleurstof uit de vloeistof.
 	* Er blijft helder water over.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3NTc5NDU2OCwtMTE5NzIxODQzNiwyMD
+eyJoaXN0b3J5IjpbMTIzOTY5ODI0MSwtMTE5NzIxODQzNiwyMD
 IxMzY4NzgwLC0xMjM3Njg4MDI1XX0=
 -->
