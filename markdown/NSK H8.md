@@ -46,12 +46,11 @@ Geigerteller = Sensor die radioactiviteit detecteert
 ---
 Instabiele atoomkernen = Kernen die spontaan veranderen en daardoor straling uitzenden (= radioactief verval)
 Stabiele atoomkernen = Zitten in stoffen die niet radioactief zijn
+
+Activiteit = Aantal kernen dat per seconde uiteenvalt (BQ)
 Ioniserende straling (vanaf UV-B)
 Radioactieve isotopen
 Stoffen die uit zichzelf stralen
-
-Hoeveelheid kernen dat uiteenvalt
-Per seconde = activitieit (BQ)
 
 # H8 P3 Straling gebruiken
 α (alfa) straling (hoog ioniserend, laag doordringend)
@@ -66,9 +65,9 @@ Per seconde = activitieit (BQ)
 3. Tijd
 4. Afstand
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzQ1NjExMTAsMTI3OTYzNDM3MywtMT
-E2NjU1NzMwMSwxNTM4MDk0NjMsLTg4NTc3NDk2NywtMTE3OTQ1
-NzAwOSwtNDA0NDgxOTc0LC0xNzQ1Mjk5OTczLDE2MjY0ODk1Mi
-wtMTIyODQ0NjAwOCw1MTE0MTUyMiwtMTY2NDI5ODUxMywzMDMw
-NzM5ODUsLTEwNjc3Njg2MzldfQ==
+eyJoaXN0b3J5IjpbMTYwMzA0ODg3OCwxMjc5NjM0MzczLC0xMT
+Y2NTU3MzAxLDE1MzgwOTQ2MywtODg1Nzc0OTY3LC0xMTc5NDU3
+MDA5LC00MDQ0ODE5NzQsLTE3NDUyOTk5NzMsMTYyNjQ4OTUyLC
+0xMjI4NDQ2MDA4LDUxMTQxNTIyLC0xNjY0Mjk4NTEzLDMwMzA3
+Mzk4NSwtMTA2Nzc2ODYzOV19
 -->
