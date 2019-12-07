@@ -1,12 +1,12 @@
 # H8 P1 Wat is straling?
 Argumenten van kernenergie:
-Voor  | Tegen
-|---|---|
-|Doet het altijd  | ~~Opwarming~~
-|Geen cO2 uitstoot  |Risicovol (chernobyl)
-|Weinig afval |Kernramp
-|Makkelijk op te slaan | Kernafval
-|Minder dodelijk |Duur om te bouwen
+|Voor|Tegen|
+|--|--|
+|Doet het altijd|~~Opwarming~~
+|Geen cO2 uitstoot|Risicovol (chernobyl)
+|Weinig afval|Kernramp
+|Makkelijk op te slaan|Kernafval
+|Minder dodelijk|Duur om te bouwen
 
 ## Eigenshappen:
 - Straling is o.a. licht
@@ -66,15 +66,16 @@ Dracht = geeft aan hoe ver de straling in een stof kan doordringen
 Bescherming tegen straling:
 - Dosismeter
 - Inpakken
-- Tijd (kort houden)
-- Afstand (groot houden)
-- Afschermingsmateriaal (lood, dikke laag)
+-3. Tijd (kort houden)
+-4. Afstand (groot houden)
+-5. Afschermingsmateriaal (lood, dikke laag)
 
 Maatregelen bij besmetting:
 - Kleding uit en douchen
 - Besmette kleding zorgvuldig opbergen
 - Besmette ruimtes ontsmetten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0Mjk5MzI2NiwxMzI1MjgzMTQzLC0xNz
-QwMjQ1MDk1LC03OTU4Njg3NDMsMTYwMzA0ODg3OF19
+eyJoaXN0b3J5IjpbLTE3ODI0ODA1NzgsMTc0Mjk5MzI2NiwxMz
+I1MjgzMTQzLC0xNzQwMjQ1MDk1LC03OTU4Njg3NDMsMTYwMzA0
+ODg3OF19
 -->
